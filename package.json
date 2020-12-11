@@ -1,0 +1,13 @@
+{
+  "name": "com.sandolkakosdigital.unitypackagemanagerutilities",
+  "version": "1.0.0",
+  "displayName": "UnityPackageManager Utilities",
+  "description": "That package has a utility to resolve Git Dependencies inside custom packages installed in the project.",
+  "keywords": [
+    "Git Dependencies Resolver"
+  ],
+  "author": {
+    "name": "Marllon Vilano",
+    "url": "https://github.com/sandolkakos"
+  }
+}
