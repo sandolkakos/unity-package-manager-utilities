@@ -2,7 +2,7 @@ UnityPackageManager Utilities
 ===
 
 ## Description
-That package contains a utility that makes it possible to resolve Git Dependencies inside custom packages installed in your project via [UPM - Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html).
+That package contains a utility that makes it possible to resolve Git Dependencies inside custom packages installed in your Unity project via [UPM - Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html).
 
 ## How to use
 Just copy the link below and add it to your project via Unity Package Manager: [Installing from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
