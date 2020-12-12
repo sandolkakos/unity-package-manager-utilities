@@ -34,26 +34,10 @@ At the moment, UPM only supports dependencies having *name* and *version* as des
     "com.companyname.packagename": "https://your-git-repository-url.git"
   }
 ```
-----
+## Real Example
+Here you can see an example of a Custom Package that has a gitDependency in its *package.json*:
+- https://github.com/sandolkakos/unity-layer-arrangement
 
-### The *package.json* of your custom package with dependencies should be something like:
-```json
-{
-  "name": "com.companyname.custompackagename",
-  "version": "1.0.0",
-  "displayName": "Custom Package Name",
-  "description": "Description of your custom package.",
-  "author": {
-    "name": "Author Name",
-    "url": "https://your-url.com"
-  },
-  "gitDependencies": {
-    "com.companyname.packagename_example1_root_of_git_respository": "https://your-git-repository-url.git",
-  "com.companyname.packagename_example2_path_in_the_git_respository": "https://your-git-repository-url.git?path=/Packages/YourPackageName",
-  "com.companyname.packagename_example3_path_in_the_git_respository_with_tag_version": "https://your-git-repository-url.git?path=/Packages/YourPackageName#1.2.0"
-  }
-}
-```
 ----
 
 ## Path Query Parameter
