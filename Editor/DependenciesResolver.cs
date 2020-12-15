@@ -44,7 +44,7 @@ namespace SandolkakosDigital.PackageManagerUtilities.Editor
             }
         }
 
-        [MenuItem("Test/Resolve")]
+        [MenuItem("Window/Package Manager Utils/Resolve Git Dependencies", false, 1502)]
         public static void Resolve()
         {
             if (TryGetUnresolvedGitDependencies(out var unresolvedGitDependencies))
