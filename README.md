@@ -7,7 +7,7 @@ That package contains a utility that makes it possible to resolve Git Dependenci
 ## How to use
 Just copy the link below and add it to your project via Unity Package Manager: [Installing from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
 ```
-https://github.com/sandolkakos/unitypackagemanagerutilities.git
+https://github.com/sandolkakos/unity-package-manager-utilities.git
 ```
 
 ## Explanation
